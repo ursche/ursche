@@ -8,5 +8,5 @@
 - 😄 Pronouns: urjala
 - ⚡ Fun fact: 
 
-<img src="https://github-readme-stats.vercel.app/api?username=urjala&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ursche&show_icons=true&theme=radical" />
 
