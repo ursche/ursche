@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on MYSELF
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust and laravel and php and nextjs and reactjs and dotnet
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
